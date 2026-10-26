@@ -1,0 +1,5 @@
+/vendor/
+/logs/*.jsonl
+.env
+env.sh
+iam-policy.json
