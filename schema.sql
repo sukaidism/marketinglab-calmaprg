@@ -1,4 +1,4 @@
--- TODO D1: Table creation statements using InnoDB and utf8mb4
+-- TODO D1: Table creation statements
 CREATE TABLE IF NOT EXISTS customers (
     customer_id VARCHAR(32) NOT NULL,
     full_name VARCHAR(150) NOT NULL,
